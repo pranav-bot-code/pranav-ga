@@ -13,7 +13,7 @@ export default function Home() {
             href="https://weather.pranav.ga"
             className="px-2 hover:text-blue-700"
           >
-            Weather
+            Wether
           </a>
           <a
             href="https://shorty.pranav.ga"
@@ -46,7 +46,7 @@ export default function Home() {
           <div className="flex flex-col justify-start rounded-xl backdrop-brightness-90 card p-2 m-2">
             <div className="flex items-center p-2">
               <TbSunset2 className="text-4xl mr-2" />
-              <h1 className="font-medium">Weather</h1>
+              <h1 className="font-medium">Wether</h1>
             </div>
             <p className="text-sm p-2">Simple Weather app</p>
             <a className="flex justify-center items-center bg-yellow-400 hover:bg-yellow-300 p-2 rounded-xl hover:text-gray-600 cursor-pointer w-1/2 text-gray-700" href="https://weather.pranav.ga">Try it <BsArrowRightShort /></a>
