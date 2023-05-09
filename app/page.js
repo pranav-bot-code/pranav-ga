@@ -32,7 +32,7 @@ export default function Home() {
           </a>
         </div>
       </div>
-      <div className="flex items-center justify-center md:justify-normal h-96 bg-cover bg-[url('/background-1.jpeg')]">
+      <div className="flex items-center justify-center md:justify-normal h-96 bg-cover bg-[url('/background-1.webp')]">
         <div className="p-10 m-10 items-center flex-col backdrop-blur-3xl backdrop-brightness-150 rounded-lg flex">
           <h1 className="text-2xl font-mono font-bold">pranav.ga</h1>
           <p>Easy to use and convenient <br></br>online tools!</p>
