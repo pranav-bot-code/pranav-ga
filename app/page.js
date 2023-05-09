@@ -57,7 +57,7 @@ export default function Home() {
               <h1 className="font-medium">URL Shortener</h1>
             </div>
             <p className="text-sm p-2">A Temp URL Shortener</p>
-            <a className="flex justify-center items-center bg-blue-400 hover:bg-blue-300 p-2 rounded-xl hover:text-gray-600 cursor-pointer w-1/2 text-gray-700" href="https://shorty.pranav.ga">Try it <BsArrowRightShort /></a>
+            <a className="flex justify-center items-center bg-blue-400 hover:bg-blue-300 p-2 rounded-xl cursor-pointer w-1/2 text-black" href="https://shorty.pranav.ga">Try it <BsArrowRightShort /></a>
           </div>
           <div className="flex flex-col justify-start rounded-xl backdrop-brightness-90 card p-2 m-2">
             <div className="flex items-center p-2">
@@ -65,7 +65,7 @@ export default function Home() {
               <h1 className="font-medium">YT Downloader</h1>
             </div>
             <p className="text-sm p-2">A Youtube Video Downloader</p>
-            <a className="flex justify-center items-center bg-red-500 hover:bg-red-400 p-2 rounded-xl hover:text-gray-100 cursor-pointer w-2/5 text-gray-200" href="https://yt.pranav.ga">Try it <BsArrowRightShort /></a>
+            <a className="flex justify-center items-center bg-red-500 hover:bg-red-400 p-2 rounded-xl cursor-pointer w-2/5 text-black" href="https://yt.pranav.ga">Try it <BsArrowRightShort /></a>
           </div>
           <div className="flex flex-col justify-start rounded-xl backdrop-brightness-90 card p-2 m-2">
             <div className="flex items-center p-2">
