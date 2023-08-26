@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className="bg-white text-gray-900 w-full overflow-x-hidden h-full">
       <div className="sticky backdrop-blur-3xl flex flex-col md:flex-row items-center justify-between">
-        <h1 className="font-bold font-mono text-4xl p-3">pranav.ga</h1>
+        <h1 className="font-bold font-mono text-4xl p-3">Pranav</h1>
         <div className="flex items-center p-3 font-sans font-semibold">
           <a
             href="https://weather.prnvkk.me"
