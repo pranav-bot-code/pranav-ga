@@ -2,7 +2,7 @@ import { TbSunset2 } from "react-icons/tb";
 import { RiScissorsCutFill } from "react-icons/ri";
 import { FiDownload } from "react-icons/fi";
 import { BsMusicNoteBeamed, BsArrowRightShort } from "react-icons/bs";
-import { PiPuzzlePiece } from 'react-icons/pi';
+import { PiPuzzlePiece } from "react-icons/pi";
 
 export default function Home() {
   return (
