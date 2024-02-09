@@ -1,3 +1,3 @@
-#prnvkk.me
+# prnvkk.me
 
-The repo for thecode for https://prnvkk.me
+The repo containing the code for https://prnvkk.me
